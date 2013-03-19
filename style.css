@@ -1,0 +1,11 @@
+body { font-family: Verdana, Geneva, sans-serif; background:#CCC; padding: 0; margin: 0; } 
+h1 { padding: 20px; margin: 0; }
+div#page-wrap { width: 1000px; margin: 0 auto; border-left: 1px solid #000; border-right: 1px solid #000; background: #FFF; overflow: hidden; border-bottom: 1px solid #000; padding-bottom: 20px; }
+table#newbook-form { margin-bottom: 30px; padding-bottom: 50px; width: 100%; padding: 0 20px 30px 20px; border-top: 1px solid #000; border-bottom: 1px solid #000; background: url(img/bookbg.png); }
+table#booklist { width: 100%; padding: 30px 20px 30px 20px; clear: both; }
+table#booklist tbody tr td { padding: 10px; }
+div#booklist_length { padding-left: 25px; }
+div#booklist_filter { padding-right: 25px; } 
+div#booklist_info { padding-left: 25px; }
+div#footer { width: 960px; margin: 20px auto; border: 1px solid #000; background: #FFF; overflow: hidden; padding: 20px; font-size: 12px; }
+div#footer a { text-decoration: none; color: #8486a0; }
